@@ -35,3 +35,9 @@ console.log("Christopher".length) // Exemplo de uma propriedade
 // Classes podem ter métodos, métodos são ações, é algo especifico que uma classe faz, podem ter um retorno ou não
 console.log('Gerando número aleatório de 0 a 100: ', Math.random * 100);
 console.log('Tudo isso ficará em maiúsculo: '.toUpperCase());
+
+// Objetos built-in
+/* São objetos imbutidos do JavaScript, um de exemplo é objeto interno Math, para operações matemáticas
+   mais infos aqui: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+*/
+console.log(Math.abs(2))
