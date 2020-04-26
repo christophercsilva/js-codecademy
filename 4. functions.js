@@ -6,3 +6,11 @@
 function areaRet(largura, altura){
     return largura * altura;
 }
+
+// Arrow function
+const areaQuadrado = (lado) => {
+    return lado * lado;
+}
+
+//ou 
+const areaQuadrado = lado => lado * lado;
