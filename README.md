@@ -1,0 +1,2 @@
+# js-codecademy
+JavaScript Course
