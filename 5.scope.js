@@ -1,5 +1,5 @@
 // Variáveis globais podem ser acessadas dentro de outros escopos
-// Váriaveis de escopo, só podem ser acessadas dentro daquele escopo, fora não, mas dentro de um escopo dentro dele sim
+// Váriaveis de escopo, só podem ser acessadas dentro daquele escopo
 
 
 const satellite = 'The Moon';
